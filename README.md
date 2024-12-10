@@ -1,5 +1,5 @@
 ## 👋 Yo, I’m Cattu Or Justin
-- 👀 Your average ✨ Frontend ✨ self-taught dev
+- 👀 Your average ✨ Fullstack ✨ self-taught dev
 - 💞️ I’m looking to collaborate on anything & Build further projects!
 
 
